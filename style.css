@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.formulário{
+    width: 100%;
+    background-color: #E6C744;
+    padding: 100px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.formulário h2{
+    color: #ffffff;
+    font-size: 2.5em;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-weight: 900;
+}
+
+.formulário p{
+    color: #ffffff;
+    margin-top: 5px;
+    font-size: 1.5em;
+}
+
+.insira{
+    background-color: #ffffff;
+    width: 375px;
+    margin-left: 36%;
+    display: flex;
+    margin-top: 20px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+input{
+    background: none;
+    border: none;
+}
+
+button{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 9px;
+    border: none;
+    font-size: 20px;
+    margin: -5px;
+    width: 100px;
+    margin-left: 28%;
+}
+
+footer{
+    height: 60vh;
+    background-color: #000000;
+    color: #C2C8DA;
+    display: flex;
+
+}
+
+footer h2{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 5%;
+    margin-top: 10%;
+    
+}
+
+footer p{
+    margin-left: 5%;
+}
+
+.um{
+    margin-left: 4%;
+}
+
+.um p{
+    margin-top: 5%;
+    
+}
+
+.um h2{
+    margin-top: 25%;
+    font-weight: 900;
+}
+
+.dois{
+    display: flex;
+    gap: 100px;
+    margin-left: 20%;
+    line-height: 50px;
+    margin-top: 5%;
+}
+
+.footerdois p{
+    margin: 1px;
+    
+}
+
+.footertres{
+
+}
+
+
+footer a{
+    text-decoration: none;
+    color: #C2C8DA; ;
+}
+
+img{
+    height: 30px;
+    background-color: #E6C744;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.icon{
+    margin-top: 20%;
+    margin-left: 5%;
+}
+
+p a{
+    color: rgba(255, 255, 255, 0.527);
+}
+
+#white{
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
